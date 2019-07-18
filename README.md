@@ -1,2 +1,2 @@
 # NumberSystem
-Simple number system converter that doesn't utilize built in conversions
+Simple number system converter that uses JFrame and doesn't utilize built in conversions
